@@ -1,0 +1,13 @@
+# Arquivo de dependências
+# -----------------------
+# Este projeto foi desenvolvido utilizando exclusivamente a 
+# biblioteca padrão (Standard Library) do Python para garantir
+# portabilidade e facilidade de execução no ambiente de avaliação.
+#
+# Bibliotecas nativas utilizadas:
+# - sqlite3
+# - datetime
+# - os
+# - sys
+#
+# Nenhuma instalação via 'pip install' é necessária.

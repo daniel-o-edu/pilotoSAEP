@@ -1,0 +1,10 @@
+Credenciais de Acesso (Login)
+Para utilizar o sistema, utilize um dos usuários já cadastrados no script inicial:
+
+Usuário Administrador:
+Login: admin
+Senha: 123456
+
+Usuário Comum 1:
+Login: joao.silva
+Senha: senha123
